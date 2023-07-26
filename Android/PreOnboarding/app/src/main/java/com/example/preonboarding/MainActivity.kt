@@ -31,25 +31,30 @@ class MainActivity : ComponentActivity() {
             }
         }
     }
+
+    // 실습
+    fun exam02 {
+        Column(
+            modifier = Modifier.fillMaxSize(),
+            verticalArrangement = Arrangement.SpaceEvenly,
+            horizontalAlignment = Alignment.CenterHorizontally,
+        ) {
+            Text(
+                text = "One Market",
+                fontSize = 28.sp,
+                fontWeight = FontWeight.Bold,
+                modifier = modifier,
+            )
+            Button(onClick = { /*TODO*/ }) {
+                Text(text = "로그인")
+            }
+        }
+    }
 }
 
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
-    Column(
-        modifier = Modifier.fillMaxSize(),
-        verticalArrangement = Arrangement.SpaceEvenly,
-        horizontalAlignment = Alignment.CenterHorizontally,
-    ) {
-        Text(
-            text = "One Market",
-            fontSize = 28.sp,
-            fontWeight = FontWeight.Bold,
-            modifier = modifier,
-        )
-        Button(onClick = { /*TODO*/ }) {
-            Text(text = "로그인")
-        }
-    }
+
 }
 
 @Preview(showBackground = true)
