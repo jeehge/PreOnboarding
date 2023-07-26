@@ -1,20 +1,29 @@
-# 프리온보딩 안드로이드 챌린지 6월
+# SwiftUI 공식문서 파헤치기 | 프리온보딩 iOS 챌린지 8월
 
-Android CHALLENGE [링크](https://www.wanted.co.kr/events/pre_challenge_android_3) 
+iOS CHALLENGE [링크](https://www.wanted.co.kr/events/pre_challenge_ios_4) 
 
 ### 챌린지 일정
 
-06.05 (월) ~ 06.18 (일) : 기술 역량 향상 (2주) 토요일 & 일요일 10시 online (각 3시간)
+07.31 (월) ~ 08.13 (일) : 기술 역량 향상 (2주) 토요일 & 일요일 10시 online (각 3시간)
+
+<강의 일정>
+1차: 07월 31일(월) 20시
+2차: 08월 02일(수) 20시
+3차: 08월 07일(월) 20시
+4차: 08월 09일(수) 20시
+
 
 ### 사전미션
 
-1. UI 구현 방식에 있어 XML과 Jetpack Compose의 가장 구별되는 차이점은 무엇인가요?
+# SwiftUI Tutorial
 
-- Fragment 의 존재 유무
+[Introducing SwiftUI | Apple Developer Documentation](https://developer.apple.com/tutorials/swiftui)
 
-2. 아래 영상을 시청하고 Material3의 업데이트와 Jetpack Compose와 관련된 주요 내용을 정리하며 학습해주세요.
+위 링크의 튜토리얼을 진행해보세요.
 
-  - Google I/O 2023 Build modern Android apps with Material You for Compose
+`Chapter 1 - SwiftUI Essentials` 는 필수이고, 그 이후는 선택적으로 진행해보세요.
+
+
 
 
 week 1 : Jetpack compose 기본
