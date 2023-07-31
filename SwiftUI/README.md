@@ -7,15 +7,21 @@ iOS CHALLENGE [링크](https://www.wanted.co.kr/events/pre_challenge_ios_4)
 07.31 (월) ~ 08.13 (일) : 기술 역량 향상 (2주) 토요일 & 일요일 10시 online (각 3시간)
 
 <강의 일정>
+
 1차: 07월 31일(월) 20시
+
 2차: 08월 02일(수) 20시
+
 3차: 08월 07일(월) 20시
+
 4차: 08월 09일(수) 20시
 
+<br>
+<br>
 
-### 사전미션
+## 사전미션
 
-# SwiftUI Tutorial
+### SwiftUI Tutorial
 
 [Introducing SwiftUI | Apple Developer Documentation](https://developer.apple.com/tutorials/swiftui)
 
@@ -23,10 +29,11 @@ iOS CHALLENGE [링크](https://www.wanted.co.kr/events/pre_challenge_ios_4)
 
 `Chapter 1 - SwiftUI Essentials` 는 필수이고, 그 이후는 선택적으로 진행해보세요.
 
-Introducing SwiftUI
 
+<br>
+<br>
 
-week 1 : 
+## week 1 
 
 프레임워크가 무엇이냐 ?  공식문서를 보자!
 
@@ -54,8 +61,6 @@ Declare the user interface and behavior for your app on every platform.
 우리는 SwiftUI 의 공식문서를 어떻게 공부해야 할지 2주동안 볼 예정이다!
 
 
+<br>
 
-
-
-
-week 2 : 
+## week 2 
