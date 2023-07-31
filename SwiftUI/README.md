@@ -60,7 +60,20 @@ Declare the user interface and behavior for your app on every platform.
 
 우리는 SwiftUI 의 공식문서를 어떻게 공부해야 할지 2주동안 볼 예정이다!
 
+<hr>
 
+<오늘 함께 본 예제>
+
+[Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
+
+SwiftUI 는 Apple 플랫폼의 사용자 인터페이스를 선언하는 최신 방법입니다.
+
+4 시간 25 분 추정 시간
+
+[Landmarks example](https://github.com/jeehge/PreOnboarding/tree/main/SwiftUI/Landmarks)
+
+<hr>
+ 
 <br>
 
 ## week 2 
