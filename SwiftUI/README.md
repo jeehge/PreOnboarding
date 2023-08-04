@@ -77,3 +77,13 @@ SwiftUI 는 Apple 플랫폼의 사용자 인터페이스를 선언하는 최신 
 <br>
 
 ## week 2 
+
+1. KeyPath 문법 살펴보기
+
+2. Identifiable은 무엇인가 ?
+
+Identifiable의 요구사항 id가 존재해야함. id 가 있어야 구분할 수 있음
+
+Identifiable 하지 않은 것은 List에서 사용할 수 없음
+
+3. GeometryReader  - 부모뷰의 사이즈를 읽을 수 있게 해줌
