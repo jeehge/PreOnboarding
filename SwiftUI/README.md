@@ -101,4 +101,18 @@ wrapper 말그대로 랩핑해서 사용하는 것
 
 _ : 관용적 표현 private 한 프로퍼티를 의미
 
+State : SwiftUI로 부터 관리되는 값을 읽고 쓸 수 있게 해주는 Property Wrapper
+
+
+source of truth : UIKit은 명령형이라 모델이 변경이 되면 뷰컨트롤러가 변경되었다 알려주고 뷰에게 변경된걸 알려주는 것 처럼 흐름이 옮겨갈 때마다 이벤트가 옮겨가는데 (바인딩이 되어 있지 않아서) SwiftUI에서는 뷰에 표현되는 어떤 데이터의 원천은 하나여야 한다. <- 이걸 의미 (?)
+
+Binding : 
+
+
+ObservableObject : 
+
+
+
+
+
 
