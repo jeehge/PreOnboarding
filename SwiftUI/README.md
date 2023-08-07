@@ -60,7 +60,45 @@ Declare the user interface and behavior for your app on every platform.
 
 우리는 SwiftUI 의 공식문서를 어떻게 공부해야 할지 2주동안 볼 예정이다!
 
+<hr>
 
+<오늘 함께 본 예제>
+
+[Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
+
+SwiftUI 는 Apple 플랫폼의 사용자 인터페이스를 선언하는 최신 방법입니다.
+
+4 시간 25 분 추정 시간
+
+[Landmarks example](https://github.com/jeehge/PreOnboarding/tree/main/SwiftUI/Landmarks)
+
+<hr>
+ 
 <br>
 
 ## week 2 
+
+1. KeyPath 문법 살펴보기
+
+2. Identifiable은 무엇인가 ?
+
+Identifiable의 요구사항 id가 존재해야함. id 가 있어야 구분할 수 있음
+
+Identifiable 하지 않은 것은 List에서 사용할 수 없음
+
+3. GeometryReader  - 부모뷰의 사이즈를 읽을 수 있게 해줌
+
+<hr>
+ 
+<br>
+
+## week 3
+
+Property Wrapper
+
+wrapper 말그대로 랩핑해서 사용하는 것
+
+
+_ : 관용적 표현 private 한 프로퍼티를 의미
+
+
