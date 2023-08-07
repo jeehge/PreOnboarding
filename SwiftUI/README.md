@@ -87,3 +87,18 @@ Identifiable의 요구사항 id가 존재해야함. id 가 있어야 구분할 �
 Identifiable 하지 않은 것은 List에서 사용할 수 없음
 
 3. GeometryReader  - 부모뷰의 사이즈를 읽을 수 있게 해줌
+
+<hr>
+ 
+<br>
+
+## week 3
+
+Property Wrapper
+
+wrapper 말그대로 랩핑해서 사용하는 것
+
+
+_ : 관용적 표현 private 한 프로퍼티를 의미
+
+
